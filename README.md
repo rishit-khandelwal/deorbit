@@ -1,10 +1,10 @@
-# Modbot
+# Deorbit 
 
-The bot for moderators
+Deorbit the rule breakers
 
 # Features
 
-This is a powerful moderation assistant which is tightly integrated with your server, as a result this bot in its current state might not work on your server. You can always change this bot to your server configuration.
+- Kick/ban users
 
 # Development
 
@@ -16,8 +16,8 @@ This is a powerful moderation assistant which is tightly integrated with your se
 
 `npm install`
 
-`npm run build --watch`
+`npm run watch`
 
 And in another terminal window:
 
-`npm test`
+`npm dev`
